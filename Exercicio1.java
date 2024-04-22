@@ -16,7 +16,7 @@ public class Exercicio1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        String[][] agenda = new String[31][24]; // Matriz para armazenar os compromissos
+        String[][] agenda = new String[31][24];
 
         int opcao;
         do {
